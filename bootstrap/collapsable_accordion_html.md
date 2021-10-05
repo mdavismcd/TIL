@@ -1,8 +1,5 @@
 # Collapsable Accordion HTML Code
-This code will primarily be used for my work's LibGuides
-Source: https://getbootstrap.com/docs/3.4/javascript/#collapse-example-accordion
-
-
+This code will primarily be used for my work's LibGuides, but can be applied on anywhere with Bootstrap.
 
 ```
 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
@@ -49,4 +46,6 @@ Source: https://getbootstrap.com/docs/3.4/javascript/#collapse-example-accordion
     </div>
   </div>
 </div>
-```
+
+
+[Source](https://getbootstrap.com/docs/3.4/javascript/#collapse-example-accordion)
