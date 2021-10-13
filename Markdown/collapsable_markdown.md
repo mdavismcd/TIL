@@ -1,6 +1,6 @@
 # Today I Learned . . .
 
-How to insert collapsable text, including `code`, in Markdown. While I promise myself not to go all out with this, I plan to use in longer files.
+How to insert collapsable text, including `code`, in Markdown. While I promise myself not to go all out with this, I plan to use it in longer files.
 
 ## How to structure
 
