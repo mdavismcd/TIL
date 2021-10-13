@@ -15,4 +15,17 @@ How to insert collapsable text, including `code`, in Markdown. While I promise m
      * Sub bullets
 </details>
 
+### A collapsible section containing code
+<details>
+  <summary>Click to expand!</summary>
+  
+  ```javascript
+    function logSometing(something) {
+      console.log(`Logging: ${something}`);
+    }
+  ```
+</details>
+
+___
+
 [source: @pierrejoubert73](https://gist.github.com/pierrejoubert73/902cc94d79424356a8d20be2b382e1ab)
