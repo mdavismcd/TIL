@@ -1,4 +1,4 @@
-## Switch Between Java Versions
+# Switch Between Java Versions
 
 To [run Voyant-Tools on my local machine](https://github.com/voyanttools/VoyantServer), rather than the [web version](https://voyant-tools.org/), I need to be running a previous version of Java. Below are the steps I take to switch between versions. I'm running OSX Monterey 12.4. 
 

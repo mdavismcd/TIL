@@ -1,4 +1,4 @@
-## Collapsable Accordion HTML Code
+# Collapsable Accordion HTML Code
 This code will primarily be used for my work's LibGuides, but can be applied on anywhere with Bootstrap.
 
 ```

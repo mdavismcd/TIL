@@ -1,4 +1,4 @@
-## Add a Space After the Third Character of a Specific Field in XSL
+# Add a Space After the Third Character of a Specific Field in XSL
 
 Some files were deposited into a repository with inconsistent spacing in the dc:title field. Instead of going through each record individually, I, with the help of Robert Chavez, created smiple XSL to run on records in bulk through a normalization rule. This can be done through any xsl convertor, but I used oXygen to check before running in the Alma---Library Services Platform at my work.
 
