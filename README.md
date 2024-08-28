@@ -2,7 +2,7 @@
 
 > Today I Learned
 
-My collection of small things I found helpful to my day to day life.
+My collection of small things I found helpful to my day to day life. Thanks to [Josh Branchaud - jbranchaud](https://github.com/jbranchaud) and [his TIL repo](https://github.com/jbranchaud/til) for inspriration.
 
 ---
 Categories
